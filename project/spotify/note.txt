@@ -16,3 +16,7 @@
 # Lưu ý: bỏ file .env vào file .gitignore
 
 - Bước 4: Chạy npm run deploy
+
+#Thư viện Control music
+
+- React H5 audio player: https://www.npmjs.com/package/react-h5-audio-player
