@@ -1,4 +1,18 @@
-Cách thêm Font awesome 5 bản miễn phí vào Web
+*** Cách thêm Font awesome 5 bản miễn phí vào Web
 - Chi tiết: https://viblo.asia/p/huong-dan-font-awesome-5-ban-mien-phi-gGJ59Qyj5X2
 - Link Import: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css
 - Link Tra cứu: https://fontawesome.com/v5/search?q=user&m=free
+
+*** Cách Public App React lên Github page:
+- Chi tiết: https://www.youtube.com/watch?v=-c3iwW0KQc4
+- Bước 1: Cài npm install gh-pages --save-dev
+- Bước 2: Thêm vào phần Script file package.json: 
+    {"predeploy": "react-scripts build",
+    "deploy": "gh-pages -d build"}
+- Bước 3: Thêm file .env vào project reactjs: 
+
+    {PUBLIC_URL ="."}
+
+# Lưu ý: bỏ file .env vào file .gitignore
+
+- Bước 4: Chạy npm run deploy
