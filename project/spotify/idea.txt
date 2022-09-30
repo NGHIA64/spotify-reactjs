@@ -1,0 +1,4 @@
+5.SP khác gì so với những SP khác như thế nào ?
+- Mỗi lần nghe nhạc sẽ được cộng phần điểm tương ứng với mỗi bài hát
+- Nghe càng nhiều thì điểm càng cao
+- Khi điểm cao có thể đổi ra các phần quà hoặc các ưu đãi

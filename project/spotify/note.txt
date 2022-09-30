@@ -1,3 +1,5 @@
+*** Cách tạo 1 project ReactJS 
+- Cài npx create-react-app [tên project react]
 *** Cách thêm Font awesome 5 bản miễn phí vào Web
 - Chi tiết: https://viblo.asia/p/huong-dan-font-awesome-5-ban-mien-phi-gGJ59Qyj5X2
 - Link Import: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css
